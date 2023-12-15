@@ -11,7 +11,7 @@ Make sure to take a reading of baseline data, and another for data that has item
 
 - parse_bin_data.py
 
-### Parsing the data
+## Parsing the data
 
 For our code we use Demo.ipynb to read the parsed bin data and calculate its outcome. 
 
@@ -19,13 +19,13 @@ The first box of Demo.ipynb is where you should put the file names for the base 
 
 The second box of Demo.ipynb is the analysis of the baseline data and the third box is the data of baseline data - real data:
 
-# Baseline Result
+### Baseline Result
 ![Baseline Result](https://github.com/renren123123/CS437-Final-Project/blob/main/Smoothed%20Baseline.PNG) 
 
-# Before Subtracting Baseline
+### Before Subtracting Baseline
 ![Before subtracting baseline](https://github.com/renren123123/CS437-Final-Project/blob/main/before%20minus.PNG) 
 
-# After Subtracting Baseline
+### After Subtracting Baseline
 ![After subtracting baseline](https://github.com/renren123123/CS437-Final-Project/blob/main/full.PNG)
 
 
