@@ -19,7 +19,14 @@ The first box of Demo.ipynb is where you should put the file names for the base 
 
 The second box of Demo.ipynb is the analysis of the baseline data and the third box is the data of baseline data - real data:
 
-![Baseline Result](https://github.com/renren123123/CS437-Final-Project/blob/main/Smoothed%20Baseline.PNG) - ![Before subtracting baseline](https://github.com/renren123123/CS437-Final-Project/blob/main/before%20minus.PNG) = ![After subtracting baseline](https://github.com/renren123123/CS437-Final-Project/blob/main/full.PNG)
+# Baseline Result
+![Baseline Result](https://github.com/renren123123/CS437-Final-Project/blob/main/Smoothed%20Baseline.PNG) 
+
+# Before Subtracting Baseline
+![Before subtracting baseline](https://github.com/renren123123/CS437-Final-Project/blob/main/before%20minus.PNG) 
+
+# After Subtracting Baseline
+![After subtracting baseline](https://github.com/renren123123/CS437-Final-Project/blob/main/full.PNG)
 
 
 From there you can change the filename for 'rawData' to test and compare with different cabin enviornments.
